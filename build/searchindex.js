@@ -1,0 +1,1 @@
+Search.setIndex({envversion:42,terms:{content:0},objtypes:{},objnames:{},filenames:["index"],titles:["Hacktivate's Value"],objects:{},titleterms:{hacktiv:0,valu:0}})
